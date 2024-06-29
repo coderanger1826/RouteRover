@@ -1,6 +1,6 @@
 # RouteRover
 
-Path Finder Visualizer is a web application that helps visualize the shortest path between a start node and a target node, considering user-generated wall nodes. Users can choose between various pathfinding algorithms, adjust the speed of the visualization, set the pixel size of each node, and generate random mazes.
+RouteRover is a web application that helps visualize the shortest path between a start node and a target node, considering user-generated wall nodes. Users can choose between various pathfinding algorithms, adjust the speed of the visualization, set the pixel size of each node, and generate random mazes.
 
 ## Features
 
