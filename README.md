@@ -25,7 +25,7 @@ RouteRover is a web application that helps visualize the shortest path between a
 
 1. Clone the repository:
     ```bash
-    [git clone https://github.com/coderanger1826/Path-Finder-Visualizer.git](https://github.com/coderanger1826/RouteRover.git)
+    git clone https://github.com/coderanger1826/RouteRover.git
     ```
 2. Navigate to the project directory:
     ```bash
